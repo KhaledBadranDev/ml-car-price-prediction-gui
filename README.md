@@ -1,0 +1,22 @@
+# GUI - Used Cars Price Predictor - ML Model
+
+GUI for a ML model that predicts the price for selling used cars
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+### Data Source & Attribution
+
+This project uses the "Vehicle Dataset from CarDekho" dataset.
+
+* Source: [https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho)
+* License: Database Contents License (DbCL) v1.0
+
+## Requirements
+
+To install the required dependencies, run:
+
+```
+pip install -r requirements.txt
+```
