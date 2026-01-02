@@ -7,7 +7,7 @@ GUI for a ML model that predicts the price for selling used cars
 
 Below is a Screenshot of the app:
 
-![App Screenshot](./imgs/Screenshot.png)
+<img src="./imgs/screenshot.png" alt="App Screenshot" width="500" height="400">
 
 ## License
 
