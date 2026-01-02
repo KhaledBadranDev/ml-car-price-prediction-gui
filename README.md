@@ -2,6 +2,13 @@
 
 GUI for a ML model that predicts the price for selling used cars
 
+
+## Screenshot
+
+Below is a Screenshot of the app:
+
+<img src="./imgs/Screenshot.png" alt="App Screenshot" width="500" height="400">
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
