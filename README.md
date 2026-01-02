@@ -27,3 +27,13 @@ To install the required dependencies, run:
 ```
 pip install -r requirements.txt
 ```
+
+## How to Run
+
+1. Ensure Python is installed on your system.
+2. Install the dependencies using the command above.
+3. Run the main script:
+
+```
+python main.py
+```
